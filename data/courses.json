@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ad4d65f8-df74-4aab-b9d3-3b9f79f86104",
+    "courseName": "Express REST APIs",
+    "description": "Build REST APIs using Node.js and Express.",
+    "targetCompletionDate": "2026-12-31",
+    "status": "Not Started",
+    "createdAt": "2026-11-19T11:44:00.557Z",
+    "updatedAt": "2026-11-19T11:44:00.557Z"
+  },
+  {
+    "id": "6c0b61b2-e1e9-4b65-ad73-a7ab85cb39ae",
+    "courseName": "Express REST APIs",
+    "description": "Build REST APIs using Node.js and Express.",
+    "targetCompletionDate": "2026-12-31",
+    "status": "Not Started",
+    "createdAt": "2026-11-19T11:44:04.066Z",
+    "updatedAt": "2026-11-19T11:44:04.066Z"
+  },
+  {
+    "id": "5f765aaa-772a-4a6e-b3ac-2c04dac33ed1",
+    "courseName": "Express REST APIs",
+    "description": "Build REST APIs using Node.js and Express.",
+    "targetCompletionDate": "2026-12-31",
+    "status": "Not Started",
+    "createdAt": "2026-11-19T11:44:05.128Z",
+    "updatedAt": "2026-11-19T11:44:05.128Z"
+  }
+]
